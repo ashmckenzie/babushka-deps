@@ -27,7 +27,8 @@ class AshMcKenzieAppBundles
       { 'SourceTree.app' => 'http://downloads.atlassian.com/software/sourcetree/SourceTree_1.3.3.dmg' },
       { 'iStat Menus.app' => 'http://s3.amazonaws.com/bjango/files/istatmenus3/istatmenus3.21.zip' },
       { 'Plex.app' => 'http://plex-downloads.s3.amazonaws.com/0.9.5.2/Plex-Media-Center-0.9.5.2.1.zip' },
-      { 'Reggy.app' => 'http://github.com/downloads/samsouder/reggy/Reggy_v1.3.tbz' }
+      { 'Reggy.app' => 'http://github.com/downloads/samsouder/reggy/Reggy_v1.3.tbz' },
+      { 'VLC.app' => 'http://downloads.sourceforge.net/project/vlc/2.0.1/macosx/vlc-2.0.1.dmg?r=http%3A%2F%2Fwww.videolan.org%2Fvlc%2Fdownload-macosx.html&ts=1333883394&use_mirror=aarnet' }
     ]
   end
 end

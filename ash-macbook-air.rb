@@ -1,6 +1,6 @@
 dep 'ash-macbook-air' do
-  apps.each do |app|
-    requires app
+  AshMcKenzieAppBundles.apps.each do |app|
+    requires app.keys.first
   end
   requires 'Perian.pref_pane'
 end

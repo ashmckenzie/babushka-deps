@@ -22,7 +22,7 @@ class AshMcKenzieAppBundles
       { 'Dropbox.app' => 'http://cdn.dropbox.com/Dropbox%201.2.49.dmg' },
       { 'Google Chrome.app' => 'https://dl-ssl.google.com/chrome/mac/stable/GGRO/googlechrome.dmg' },
       { 'Skitch.app' => 'http://get.skitch.com/skitch.zip' },
-      { 'Skype.kpp' => 'http://download.skype.com/macosx/Skype_2.8.0.851.dmg' },
+      { 'Skype.app' => 'http://download.skype.com/macosx/Skype_2.8.0.851.dmg' },
       { 'Transmit.app' => 'http://www.panic.com/transmit/d/Transmit 4.1.7.zip' },
       { 'Postbox.app' => 'http://download.getpostbox.com.s3.amazonaws.com/installers/3.0.3/1_8065a9cd330b254ee35833e92a319ef3a4b20d1e/postbox-3.0.3-mac64.dmg' },
       { 'Twitterrific.app' => 'http://iconfactory.com/assets/software/twitterrific/Twitterrific-4.4.8.zip' },

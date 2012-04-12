@@ -38,6 +38,7 @@ class AshMcKenzieAppBundles
       { 'Reggy.app' => 'http://github.com/downloads/samsouder/reggy/Reggy_v1.3.tbz' },
       { 'VLC.app' => 'http://downloads.sourceforge.net/project/vlc/2.0.1/macosx/vlc-2.0.1.dmg?r=http%3A%2F%2Fwww.videolan.org%2Fvlc%2Fdownload-macosx.html&ts=1333883394&use_mirror=aarnet' },
       { 'AppZapper.app' => 'http://www.appzapper.com/downloads/appzapper.dmg' },
+      { 'Divvy.app' => 'http://mizage.com/downloads/Divvy.zip' },
 
       { 
         'TotalFinder.installer' => {

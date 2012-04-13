@@ -4,7 +4,7 @@ dep 'htop.managed' do
   }
 end
 
-home_brew_pkgs = %w[coreutils gnu-sed hub pstree redis imagemagick ack multitail wget]
+home_brew_pkgs = %w[coreutils gnu-sed hub pstree redis imagemagick ack multitail wget wkhtmltopdf herrie]
 
 home_brew_pkgs.each do |pkg|
   dep "#{pkg}.managed" do

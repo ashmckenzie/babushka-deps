@@ -40,6 +40,8 @@ class AshMcKenzieAppBundles
       { 'AppZapper.app' => 'http://www.appzapper.com/downloads/appzapper.dmg' },
       { 'Divvy.app' => 'http://mizage.com/downloads/Divvy.zip' },
 
+      { 'MacRuby.installer' => 'http://www.macruby.org/files/MacRuby%200.10.zip' },
+
       { 
         'TotalFinder.installer' => {
           :source =>'http://downloads.binaryage.com/TotalFinder-1.3.2.dmg',

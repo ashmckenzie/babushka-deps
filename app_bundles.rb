@@ -1,6 +1,3 @@
-require 'pry'
-require 'pry-nav'
-
 class AshMcKenzieAppBundles
 
   def initialize

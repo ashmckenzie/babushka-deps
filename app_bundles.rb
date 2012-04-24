@@ -37,6 +37,7 @@ class AshMcKenzieAppBundles
       { 'AppZapper.app' => 'http://www.appzapper.com/downloads/appzapper.dmg' },
       { 'Divvy.app' => 'http://mizage.com/downloads/Divvy.zip' },
       { 'Adium.app' => 'http://download.adium.im/Adium_1.5.dmg' },
+      { 'TextMate.app' => 'http://download.macromates.com/TextMate_1.5.10.zip' },
 
       { 'MacRuby.installer' => 'http://www.macruby.org/files/MacRuby%200.10.zip' },
 

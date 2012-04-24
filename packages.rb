@@ -17,6 +17,7 @@ home_brew_pkgs = %w(
   pwgen 
   node
   rsync
+  ssh-copy-id
 )
 
 home_brew_pkgs.each do |pkg|

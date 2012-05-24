@@ -32,3 +32,5 @@ dep 'packages' do
   requires 'htop.managed'
   home_brew_pkgs.each { |pkg| requires "#{pkg}.managed" }
 end
+
+system('rehash')

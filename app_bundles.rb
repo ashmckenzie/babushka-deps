@@ -38,6 +38,8 @@ class AshMcKenzieAppBundles
       { 'Divvy.app' => 'http://mizage.com/downloads/Divvy.zip' },
       { 'Adium.app' => 'http://download.adium.im/Adium_1.5.dmg' },
       { 'TextMate.app' => 'http://download.macromates.com/TextMate_1.5.10.zip' },
+      { 'A Better Finder Rename.app' => 'http://www.publicspace.net/download/ABFRX9.dmg' },
+      { 'Pref Setter.app' => 'http://www.nightproductions.net/downloads/prefsetter.zip' },
 
       { 'MacRuby.installer' => 'http://www.macruby.org/files/MacRuby%200.10.zip' },
 

@@ -40,10 +40,12 @@ class AshMcKenzieAppBundles
       { 'TextMate.app' => 'http://download.macromates.com/TextMate_1.5.10.zip' },
       { 'A Better Finder Rename.app' => 'http://www.publicspace.net/download/ABFRX9.dmg' },
       { 'Pref Setter.app' => 'http://www.nightproductions.net/downloads/prefsetter.zip' },
+      { 'CheatSheet.app' => 'http://www.cheatsheetapp.com/CheatSheet/download.php' },
+      { 'Firefox.app' => 'http://download.mozilla.org/?product=firefox-13.0.1&os=osx&lang=en-GB' },
 
       { 'MacRuby.installer' => 'http://www.macruby.org/files/MacRuby%200.10.zip' },
 
-      { 
+      {
         'TotalFinder.installer' => {
           :source =>'http://downloads.binaryage.com/TotalFinder-1.3.2.dmg',
           :met => lambda { '/Applications/TotalFinder.app'.p.exist? }

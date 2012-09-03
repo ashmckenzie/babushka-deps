@@ -6,15 +6,15 @@ end
 
 home_brew_pkgs = %w(
   coreutils
-  gnu-sed 
-  pstree 
-  redis 
-  imagemagick 
-  ack 
-  multitail 
-  wget 
-  wkhtmltopdf 
-  pwgen 
+  gnu-sed
+  pstree
+  redis
+  imagemagick
+  ack
+  multitail
+  wget
+  wkhtmltopdf
+  pwgen
   node
   rsync
   ssh-copy-id

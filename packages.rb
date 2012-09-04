@@ -1,9 +1,3 @@
-dep 'htop.managed' do
-  meet {
-    pkg_manager.install! packages, '--HEAD'
-  }
-end
-
 home_brew_pkgs = %w(
   coreutils
   gnu-sed
@@ -13,11 +7,12 @@ home_brew_pkgs = %w(
   ack
   multitail
   wget
-  wkhtmltopdf
   pwgen
   node
   rsync
   ssh-copy-id
+  htop-osx
+  postgresql
 )
 
 home_brew_pkgs.each do |pkg|
@@ -29,7 +24,6 @@ home_brew_pkgs.each do |pkg|
 end
 
 dep 'packages' do
-  requires 'htop.managed'
   home_brew_pkgs.each { |pkg| requires "#{pkg}.managed" }
 end
 

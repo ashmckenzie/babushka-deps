@@ -20,6 +20,7 @@ class AshMcKenzieAppBundles
 
   def self.apps
     [
+      { 'Hiss.app' => 'http://collect3.com.au/hiss/Hiss.zip' },
       { 'Dropbox.app' => 'http://cdn.dropbox.com/Dropbox%201.2.49.dmg' },
       { 'Google Chrome.app' => 'https://dl-ssl.google.com/chrome/mac/stable/GGRO/googlechrome.dmg' },
       { 'Skype.app' => 'http://download.skype.com/macosx/Skype_5.8.0.1027.dmg' },

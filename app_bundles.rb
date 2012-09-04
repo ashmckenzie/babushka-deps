@@ -43,10 +43,11 @@ class AshMcKenzieAppBundles
       { 'Pref Setter.app' => 'http://www.nightproductions.net/downloads/prefsetter.zip' },
       { 'CheatSheet.app' => 'http://www.cheatsheetapp.com/CheatSheet/download.php' },
       { 'Firefox.app' => 'http://download.mozilla.org/?product=firefox-15.0&os=osx&lang=en-GB' },
+      { 'Install Spotify.app' => 'http://download.spotify.com/SpotifyInstaller.zip' },
 
       {
         'TotalFinder.installer' => {
-          :source =>'http://downloads.binaryage.com/TotalFinder-1.3.2.dmg',
+          :source =>'http://downloads.binaryage.com/TotalFinder-1.4.0.dmg',
           :met => lambda { '/Applications/TotalFinder.app'.p.exist? }
         }
       }

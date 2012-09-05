@@ -16,7 +16,6 @@ home_brew_pkgs = %w(
   pngcrush
   nginx
   mongodb
-  coffee-script
   elinks
   nmap
   phantomjs

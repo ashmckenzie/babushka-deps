@@ -31,7 +31,7 @@ home_brew_pkgs.each do |pkg|
   end
 end
 
-dep 'packages' do
+dep 'brew_packages' do
   home_brew_pkgs.each { |pkg| requires "#{pkg}.managed" }
 end
 

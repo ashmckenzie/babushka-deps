@@ -13,6 +13,15 @@ home_brew_pkgs = %w(
   ssh-copy-id
   htop-osx
   postgresql
+  pngcrush
+  nginx
+  mongodb
+  coffee-script
+  elinks
+  nmap
+  phantomjs
+  pstree
+  unrar
 )
 
 home_brew_pkgs.each do |pkg|

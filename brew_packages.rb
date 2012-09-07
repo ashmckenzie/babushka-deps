@@ -21,6 +21,7 @@ home_brew_pkgs = %w(
   phantomjs
   pstree
   unrar
+  ctags
 )
 
 home_brew_pkgs.each do |pkg|

@@ -22,6 +22,7 @@ home_brew_pkgs = %w(
   pstree
   unrar
   ctags
+  pkill
 )
 
 home_brew_pkgs.each do |pkg|

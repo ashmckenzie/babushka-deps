@@ -23,6 +23,7 @@ home_brew_pkgs = %w(
   unrar
   ctags
   pkill
+  tig
 )
 
 home_brew_pkgs.each do |pkg|

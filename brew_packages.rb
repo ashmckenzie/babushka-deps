@@ -24,6 +24,7 @@ home_brew_pkgs = %w(
   ctags
   pkill
   tig
+  tidy
 )
 
 home_brew_pkgs.each do |pkg|

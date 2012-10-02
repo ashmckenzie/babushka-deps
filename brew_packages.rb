@@ -22,11 +22,9 @@ home_brew_pkgs = %w(
   pstree
   unrar
   ctags
-  pkill
   tig
   tidy
   mutt
-  offlineimap
 )
 
 home_brew_pkgs.each do |pkg|

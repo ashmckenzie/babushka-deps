@@ -25,6 +25,8 @@ home_brew_pkgs = %w(
   pkill
   tig
   tidy
+  mutt
+  offlineimap
 )
 
 home_brew_pkgs.each do |pkg|

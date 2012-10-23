@@ -1,5 +1,7 @@
 home_brew_pkgs = %w(
   coreutils
+  rbenv
+  ruby-build
   gnu-sed
   pstree
   redis

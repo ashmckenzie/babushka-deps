@@ -27,6 +27,7 @@ home_brew_pkgs = %w(
   tig
   tidy
   mutt
+  jq
 )
 
 home_brew_pkgs.each do |pkg|

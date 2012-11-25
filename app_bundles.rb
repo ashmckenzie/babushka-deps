@@ -20,7 +20,6 @@ class AshMcKenzieAppBundles
 
   def self.apps
     [
-      { 'Hiss.app' => 'http://collect3.com.au/hiss/Hiss.zip' },
       { 'Dropbox.app' => 'http://cdn.dropbox.com/Dropbox%201.2.49.dmg' },
       { 'Google Chrome.app' => 'https://dl-ssl.google.com/chrome/mac/stable/GGRO/googlechrome.dmg' },
       { 'Skype.app' => 'http://download.skype.com/macosx/Skype_5.8.0.1027.dmg' },
@@ -33,7 +32,6 @@ class AshMcKenzieAppBundles
       { 'SourceTree.app' => 'http://downloads.atlassian.com/software/sourcetree/SourceTree_1.5.3.dmg' },
       { 'iStat Menus.app' => 'http://s3.amazonaws.com/bjango/files/istatmenus3/istatmenus3.21.zip' },
       { 'Plex.app' => 'http://plex-downloads.s3.amazonaws.com/plex-laika/0.9.5.4/Plex-0.9.5.4-973998f.zip' },
-      { 'Reggy.app' => 'http://github.com/downloads/samsouder/reggy/Reggy_v1.3.tbz' },
       { 'VLC.app' => 'http://downloads.sourceforge.net/project/vlc/2.0.1/macosx/vlc-2.0.1.dmg?r=http%3A%2F%2Fwww.videolan.org%2Fvlc%2Fdownload-macosx.html&ts=1333883394&use_mirror=aarnet' },
       { 'AppZapper.app' => 'http://www.appzapper.com/downloads/appzapper.dmg' },
       { 'Divvy.app' => 'http://mizage.com/downloads/Divvy.zip' },
@@ -41,8 +39,6 @@ class AshMcKenzieAppBundles
       { 'Trillian.app' => 'http://cerulean.cachenetworks.com/trillian-for-mac-v1.3.0.37.zip' },
       { 'TextMate.app' => 'http://download.macromates.com/TextMate_1.5.11_r1635.zip' },
       { 'A Better Finder Rename.app' => 'http://www.publicspace.net/download/ABFRX9.dmg' },
-      { 'Pref Setter.app' => 'http://www.nightproductions.net/downloads/prefsetter.zip' },
-      { 'CheatSheet.app' => 'http://www.cheatsheetapp.com/CheatSheet/download.php' },
       { 'Firefox.app' => 'http://download.mozilla.org/?product=firefox-15.0&os=osx&lang=en-GB' },
       { 'Install Spotify.app' => 'http://download.spotify.com/SpotifyInstaller.zip' },
 
